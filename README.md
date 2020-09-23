@@ -1,11 +1,14 @@
 # MERCEDES BENZ WEBSITE
 
 ## Author
-* Brian Njogu
+* Brian Njogu 
+
+## Current Version
+23rd September 2020
 
 ### Description
 This a website that talks about mercedes benz cars.
-It explains the diffrent models availabe and some of the technologies and features thwy have
+It explains the diffrent models availabe and some of the technologies and features they have
 
 ## Set up
  open the link in a browser""
