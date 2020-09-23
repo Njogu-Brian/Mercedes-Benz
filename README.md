@@ -8,7 +8,7 @@ This a website that talks about mercedes benz cars.
 It explains the diffrent models availabe and some of the technologies and features thwy have
 
 ## Set up
- open the link in a browser""
+ open the link in a browser"https://njogu-brian.github.io/Mercedes-Benz/"
 
 ## Techologies used
  * HTLML
