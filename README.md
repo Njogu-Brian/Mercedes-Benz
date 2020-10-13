@@ -1,7 +1,7 @@
 # MERCEDES BENZ WEBSITE
 
 ## Author
-* Brian Njogu 
+-[Brian Njogu](https://github.com/Njogu-Brian)
 
 ## Current Version
 23rd September 2020
